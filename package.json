@@ -36,7 +36,7 @@
     "prettier": "^2.1.1",
     "protobufjs": "^6.10.1",
     "protocol-buffers": "^4.2.0",
-    "puppeteer": "^7.0.1",
+    "puppeteer": "^10.1.0",
     "queue": "^6.0.1",
     "react": "^16.13.1",
     "ws": "^7.3.1"
